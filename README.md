@@ -1,6 +1,6 @@
 ## Introduction
 
-Solidity, used for writing smart contracts on blockchain platforms like Celo, supports a variety of powerful features. One of these is the `selfdestruct` function, which enables a contract to delete itself and forward its remaining Ether to a specified address. In this challenge, you will construct a contract that can self-destruct under certain conditions.
+Solidity, used for writing smart contracts on blockchain platforms like Celo, supports a variety of powerful features. One of these is the `selfdestruct` function, which enables a contract to delete itself and forward its remaining CELO to a specified address. In this challenge, you will construct a contract that can self-destruct under certain conditions.
 
 ## Problem Statement
 
